@@ -26,8 +26,6 @@ body {
     margin: 0 auto;
     background-color: white;
     overflow: hidden;
-    
-
 }
 .profile-card-top {
     background-image: url("../images/bg-pattern-card.svg");
